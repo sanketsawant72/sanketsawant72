@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I’m Sanket Sawant:
 Hi, I’m Sanket Sawant👋<br>A motivated Full-Stack MERN Developer passionate about building modern, scalable and user-friendly web applications.<br><br>I work across the complete development lifecycle — from designing responsive user interfaces to building secure backend APIs and managing databases. I enjoy solving real-world problems, improving performance, and writing clean, maintainable code.<br><br>🛠 Tech Stack<br><br>MongoDB, Express.js, React.js, Node.js<br><br>HTML, CSS, JavaScript<br><br>REST APIs & Git<br><br>🌱 Currently focusing on:<br><br>Building full-stack MERN projects<br><br>Improving API design and backend performance<br><br>Creating clean and responsive UI with React<br><br>💡 My goal is to grow as a professional full-stack developer and contribute to impactful real-world applications.
 
 
